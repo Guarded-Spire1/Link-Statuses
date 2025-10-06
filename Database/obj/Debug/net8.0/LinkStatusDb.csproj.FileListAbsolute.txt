@@ -1,0 +1,12 @@
+C:\Users\Tamerlan\Desktop\Database\bin\Debug\net8.0\LinkStatusDb.deps.json
+C:\Users\Tamerlan\Desktop\Database\bin\Debug\net8.0\LinkStatusDb.dll
+C:\Users\Tamerlan\Desktop\Database\bin\Debug\net8.0\LinkStatusDb.pdb
+C:\Users\Tamerlan\Desktop\Database\obj\Debug\net8.0\LinkStatusDb.csproj.AssemblyReference.cache
+C:\Users\Tamerlan\Desktop\Database\obj\Debug\net8.0\LinkStatusDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tamerlan\Desktop\Database\obj\Debug\net8.0\LinkStatusDb.AssemblyInfoInputs.cache
+C:\Users\Tamerlan\Desktop\Database\obj\Debug\net8.0\LinkStatusDb.AssemblyInfo.cs
+C:\Users\Tamerlan\Desktop\Database\obj\Debug\net8.0\LinkStatusDb.csproj.CoreCompileInputs.cache
+C:\Users\Tamerlan\Desktop\Database\obj\Debug\net8.0\LinkStatusDb.dll
+C:\Users\Tamerlan\Desktop\Database\obj\Debug\net8.0\refint\LinkStatusDb.dll
+C:\Users\Tamerlan\Desktop\Database\obj\Debug\net8.0\LinkStatusDb.pdb
+C:\Users\Tamerlan\Desktop\Database\obj\Debug\net8.0\ref\LinkStatusDb.dll

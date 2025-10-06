@@ -1,0 +1,58 @@
+C:\Users\Tamerlan\Desktop\Learning\Projects\Link statuses\bin\Debug\net8.0\Link statuses.exe
+C:\Users\Tamerlan\Desktop\Learning\Projects\Link statuses\bin\Debug\net8.0\Link statuses.deps.json
+C:\Users\Tamerlan\Desktop\Learning\Projects\Link statuses\bin\Debug\net8.0\Link statuses.runtimeconfig.json
+C:\Users\Tamerlan\Desktop\Learning\Projects\Link statuses\bin\Debug\net8.0\Link statuses.dll
+C:\Users\Tamerlan\Desktop\Learning\Projects\Link statuses\bin\Debug\net8.0\Link statuses.pdb
+C:\Users\Tamerlan\Desktop\Learning\Projects\Link statuses\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Tamerlan\Desktop\Learning\Projects\Link statuses\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Tamerlan\Desktop\Learning\Projects\Link statuses\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Tamerlan\Desktop\Learning\Projects\Link statuses\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Tamerlan\Desktop\Learning\Projects\Link statuses\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Tamerlan\Desktop\Learning\Projects\Link statuses\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Tamerlan\Desktop\Learning\Projects\Link statuses\bin\Debug\net8.0\Telegram.Bot.dll
+C:\Users\Tamerlan\Desktop\Learning\Projects\Link statuses\obj\Debug\net8.0\Link statuses.csproj.AssemblyReference.cache
+C:\Users\Tamerlan\Desktop\Learning\Projects\Link statuses\obj\Debug\net8.0\Link statuses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tamerlan\Desktop\Learning\Projects\Link statuses\obj\Debug\net8.0\Link statuses.AssemblyInfoInputs.cache
+C:\Users\Tamerlan\Desktop\Learning\Projects\Link statuses\obj\Debug\net8.0\Link statuses.AssemblyInfo.cs
+C:\Users\Tamerlan\Desktop\Learning\Projects\Link statuses\obj\Debug\net8.0\Link statuses.csproj.CoreCompileInputs.cache
+C:\Users\Tamerlan\Desktop\Learning\Projects\Link statuses\obj\Debug\net8.0\Link sta.BD8BB356.Up2Date
+C:\Users\Tamerlan\Desktop\Learning\Projects\Link statuses\obj\Debug\net8.0\Link statuses.dll
+C:\Users\Tamerlan\Desktop\Learning\Projects\Link statuses\obj\Debug\net8.0\refint\Link statuses.dll
+C:\Users\Tamerlan\Desktop\Learning\Projects\Link statuses\obj\Debug\net8.0\Link statuses.pdb
+C:\Users\Tamerlan\Desktop\Learning\Projects\Link statuses\obj\Debug\net8.0\Link statuses.genruntimeconfig.cache
+C:\Users\Tamerlan\Desktop\Learning\Projects\Link statuses\obj\Debug\net8.0\ref\Link statuses.dll
+C:\Users\Tamerlan\Desktop\Link statuses\bin\Debug\net8.0\Link statuses.exe
+C:\Users\Tamerlan\Desktop\Link statuses\bin\Debug\net8.0\Link statuses.deps.json
+C:\Users\Tamerlan\Desktop\Link statuses\bin\Debug\net8.0\Link statuses.runtimeconfig.json
+C:\Users\Tamerlan\Desktop\Link statuses\bin\Debug\net8.0\Link statuses.dll
+C:\Users\Tamerlan\Desktop\Link statuses\bin\Debug\net8.0\Link statuses.pdb
+C:\Users\Tamerlan\Desktop\Link statuses\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Tamerlan\Desktop\Link statuses\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Tamerlan\Desktop\Link statuses\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Tamerlan\Desktop\Link statuses\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Tamerlan\Desktop\Link statuses\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Tamerlan\Desktop\Link statuses\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Tamerlan\Desktop\Link statuses\bin\Debug\net8.0\Telegram.Bot.dll
+C:\Users\Tamerlan\Desktop\Link statuses\obj\Debug\net8.0\Link statuses.csproj.AssemblyReference.cache
+C:\Users\Tamerlan\Desktop\Link statuses\obj\Debug\net8.0\Link statuses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tamerlan\Desktop\Link statuses\obj\Debug\net8.0\Link statuses.AssemblyInfoInputs.cache
+C:\Users\Tamerlan\Desktop\Link statuses\obj\Debug\net8.0\Link statuses.AssemblyInfo.cs
+C:\Users\Tamerlan\Desktop\Link statuses\obj\Debug\net8.0\Link statuses.csproj.CoreCompileInputs.cache
+C:\Users\Tamerlan\Desktop\Link statuses\obj\Debug\net8.0\Link sta.BD8BB356.Up2Date
+C:\Users\Tamerlan\Desktop\Link statuses\obj\Debug\net8.0\Link statuses.dll
+C:\Users\Tamerlan\Desktop\Link statuses\obj\Debug\net8.0\refint\Link statuses.dll
+C:\Users\Tamerlan\Desktop\Link statuses\obj\Debug\net8.0\Link statuses.pdb
+C:\Users\Tamerlan\Desktop\Link statuses\obj\Debug\net8.0\Link statuses.genruntimeconfig.cache
+C:\Users\Tamerlan\Desktop\Link statuses\obj\Debug\net8.0\ref\Link statuses.dll
+C:\Users\Tamerlan\Desktop\Link statuses\obj\Debug\net8.0\Link statuses.sourcelink.json
+C:\Users\Tamerlan\Desktop\Link statuses\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Tamerlan\Desktop\Link statuses\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Tamerlan\Desktop\Link statuses\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Tamerlan\Desktop\Link statuses\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Tamerlan\Desktop\Link statuses\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Tamerlan\Desktop\Link statuses\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Tamerlan\Desktop\Link statuses\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Tamerlan\Desktop\Link statuses\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Tamerlan\Desktop\Link statuses\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tamerlan\Desktop\Link statuses\bin\Debug\net8.0\LinkStatusDb.dll
+C:\Users\Tamerlan\Desktop\Link statuses\bin\Debug\net8.0\LinkStatusDb.pdb
