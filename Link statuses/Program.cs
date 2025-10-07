@@ -1,16 +1,16 @@
 ﻿
 using Microsoft.EntityFrameworkCore;
-using Database;
 using LinkStatusDb.Models;
 using LinkStatusDb.Repositories;
+using LinkStatusDb;
 
 
 namespace Link_statuses
 {
-    public class Program
+    class Program
     {
         static readonly HttpClient client = new();
-        public static async Task Main()
+        private static async Task Main()
         {
             var options = new DbContextOptionsBuilder<LinkStatusesDbContext>()
                 .UseInMemoryDatabase(databaseName: "LinkStatusesDb")
@@ -22,10 +22,11 @@ namespace Link_statuses
 
             var cts = new CancellationTokenSource();
 
-            Console.WriteLine("TelegramBot token: ");
-            string BotToken = Console.ReadLine();
+            //Console.WriteLine("TelegramBot token: ");
+            //string BotToken = Console.ReadLine();
+            //7446920723:AAHF1ZpctjnHIBPIdAvr46DTZEO9OIGHCqU
 
-            var telegramBot = new Host(BotToken);
+            var telegramBot = new Host("7446920723:AAHF1ZpctjnHIBPIdAvr46DTZEO9OIGHCqU");
             var handlers = new Handlers(repository);
             telegramBot.OnMessage = handlers.MessageHandle;
             telegramBot.Start();
@@ -67,8 +68,7 @@ namespace Link_statuses
         {
             while (!source.Token.IsCancellationRequested)
             {
-                await Task.Delay(30000, source.Token); // проверка статусов ссылок каждые 30, при недоступности будет уведомление от бота
-                Console.WriteLine("Working");
+                await Task.Delay(30000, source.Token); // проверка статусов ссылок каждые 30 секунд, при недоступности будет уведомление от бота
                 var subscribers = await repo.GetSubscribersLinksAsync();
 
                 if (subscribers.Count == 0) continue;

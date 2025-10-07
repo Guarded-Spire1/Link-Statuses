@@ -1,8 +1,6 @@
 ﻿
-using Database;
 using LinkStatusDb.Models;
 using LinkStatusDb.Repositories;
-using Microsoft.EntityFrameworkCore;
 using System.Text;
 using Telegram.Bot;
 using Telegram.Bot.Types;

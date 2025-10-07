@@ -1,7 +1,7 @@
 ﻿using LinkStatusDb.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace Database.Configurations
+namespace LinkStatusDb.Configurations
 {
     public class LinkConfiguration : IEntityTypeConfiguration<LinkEntity>
     {

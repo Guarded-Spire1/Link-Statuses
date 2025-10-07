@@ -1,9 +1,8 @@
-﻿
-using Database.Configurations;
+﻿using LinkStatusDb.Configurations;
 using LinkStatusDb.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace Database
+namespace LinkStatusDb
 {
     public class LinkStatusesDbContext(DbContextOptions<LinkStatusesDbContext> options) : DbContext(options)
     {

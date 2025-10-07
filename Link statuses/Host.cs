@@ -1,9 +1,6 @@
 ﻿using Telegram.Bot;
 using Telegram.Bot.Types;
 using Telegram.Bot.Polling;
-using Telegram.Bot.Exceptions;
-using Telegram.Bot.Types.Enums;
-using Telegram.Bot.Types.ReplyMarkups;
 
 namespace Link_statuses
 {
@@ -48,7 +45,6 @@ namespace Link_statuses
             OnMessage?.Invoke(client, update);
             await Task.CompletedTask;
         }
-
 
     }
 }
