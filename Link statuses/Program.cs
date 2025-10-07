@@ -22,11 +22,11 @@ namespace Link_statuses
 
             var cts = new CancellationTokenSource();
 
-            //Console.WriteLine("TelegramBot token: ");
-            //string BotToken = Console.ReadLine();
-            //7446920723:AAHF1ZpctjnHIBPIdAvr46DTZEO9OIGHCqU
+            Console.WriteLine("TelegramBot token: ");
+            string BotToken = Console.ReadLine();
 
-            var telegramBot = new Host("7446920723:AAHF1ZpctjnHIBPIdAvr46DTZEO9OIGHCqU");
+
+            var telegramBot = new Host(BotToken);
             var handlers = new Handlers(repository);
             telegramBot.OnMessage = handlers.MessageHandle;
             telegramBot.Start();
