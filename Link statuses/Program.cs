@@ -25,7 +25,6 @@ namespace Link_statuses
             Console.WriteLine("TelegramBot token: ");
             string BotToken = Console.ReadLine();
 
-
             var telegramBot = new Host(BotToken);
             var handlers = new Handlers(repository);
             telegramBot.OnMessage = handlers.MessageHandle;
@@ -45,6 +44,12 @@ namespace Link_statuses
 
             await TimedBroadCastAsync(telegramBot, repository, cts);
             Console.ReadLine();
+        }
+
+        public static bool IsValidUrl(string url)
+        {
+            return Uri.TryCreate(url, UriKind.Absolute, out Uri? uriResult)
+                && (uriResult.Scheme == Uri.UriSchemeHttp || uriResult.Scheme == Uri.UriSchemeHttps);
         }
 
         public static async Task<int> GetLinkStatusAsync(string link) // return status code or 0 if link is invalid or request failed

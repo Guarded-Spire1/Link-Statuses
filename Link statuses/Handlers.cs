@@ -9,13 +9,8 @@ namespace Link_statuses
 {
     public class Handlers(DataBaseRepository repository)
     {
-        private DataBaseRepository repo = repository;
+        private readonly DataBaseRepository repo = repository;
 
-        private static bool IsValidUrl(string url)
-        {
-            return Uri.TryCreate(url, UriKind.Absolute, out Uri? uriResult)
-                && (uriResult.Scheme == Uri.UriSchemeHttp || uriResult.Scheme == Uri.UriSchemeHttps);
-        }
         public async Task MessageHandle(ITelegramBotClient bot, Update update) // handle all bot commands
         {
             if (update.Message == null || string.IsNullOrWhiteSpace(update.Message.Text))
@@ -103,7 +98,7 @@ namespace Link_statuses
                     await bot.SendMessage(userId, "To add link you need to write like this '/add example.com'");
                     return;
                 }
-                if (!IsValidUrl(userMessage))
+                if (!Program.IsValidUrl(userMessage))
                 {
                     await bot.SendMessage(userId, "Invalid link, try again:");
                     return;
@@ -130,7 +125,7 @@ namespace Link_statuses
                     return;
                 }
 
-                if (!IsValidUrl(userMessage))
+                if (!Program.IsValidUrl(userMessage))
                 {
                     await bot.SendMessage(userId, "Invalid link, try again:");
                     return;
